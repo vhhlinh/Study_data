@@ -1,0 +1,323 @@
+﻿No.,District code,District name,Ward_name,Ward code
+1,760,District 1,Tan Dinh Ward,26734
+2,760,District 1,Da Kao Ward,26737
+3,760,District 1,Ben Nghe Ward,26740
+4,760,District 1,Ben Thanh Ward,26743
+5,760,District 1,Nguyen Thai Binh Ward,26746
+6,760,District 1,Pham Ngu Lao Ward,26749
+7,760,District 1,Cau Ong Lanh Ward,26752
+8,760,District 1,Co Giang Ward,26755
+9,760,District 1,Nguyen Cu Trinh Ward,26758
+10,760,District 1,Cau Kho Ward,26761
+11,761,District 12,Thanh Xuan Ward,26764
+12,761,District 12,Thanh Loc Ward,26767
+13,761,District 12,Hiep Thanh Ward,26770
+14,761,District 12,Thoi An Ward,26773
+15,761,District 12,Tan Chanh Hiep Ward,26776
+16,761,District 12,An Phu Dong Ward,26779
+17,761,District 12,Tan Thoi Hiep Ward,26782
+18,761,District 12,Trung My Tay Ward,26785
+19,761,District 12,Tan Hung Thuan Ward,26787
+20,761,District 12,Dong Hung Thuan Ward,26788
+21,761,District 12,Tan Thoi Nhat Ward,26791
+22,762,District Thu Duc,Linh Xuan Ward,26794
+23,762,District Thu Duc,Binh Chieu Ward,26797
+24,762,District Thu Duc,Linh Trung Ward,26800
+25,762,District Thu Duc,Tam Binh Ward,26803
+26,762,District Thu Duc,Tam Phu Ward,26806
+27,762,District Thu Duc,Hiep Binh Phuoc Ward,26809
+28,762,District Thu Duc,Hiep Binh Chanh Ward,26812
+29,762,District Thu Duc,Linh Chieu Ward,26815
+30,762,District Thu Duc,Linh Tay Ward,26818
+31,762,District Thu Duc,Linh Dong Ward,26821
+32,762,District Thu Duc,Binh Tho Ward,26824
+33,762,District Thu Duc,Truong Tho Ward,26827
+34,763,District 9,Long Binh Ward,26830
+35,763,District 9,Long Thanh My Ward,26833
+36,763,District 9,Tan Phu Ward,26836
+37,763,District 9,Hiep Phu Ward,26839
+38,763,District 9,Tang Nhon Phu A Ward,26842
+39,763,District 9,Tang Nhon Phu B Ward,26845
+40,763,District 9,Phuoc Long B Ward,26848
+41,763,District 9,Phuoc Long A Ward,26851
+42,763,District 9,Truong Thanh Ward,26854
+43,763,District 9,Long Phuoc Ward,26857
+44,763,District 9,Long Truong Ward,26860
+45,763,District 9,Phuoc Binh Ward,26863
+46,763,District 9,Phu Huu Ward,26866
+47,764,District Go Vap,Ward 15,26869
+48,764,District Go Vap,Ward 13,26872
+49,764,District Go Vap,Ward 17,26875
+50,764,District Go Vap,Ward 6,26876
+51,764,District Go Vap,Ward 16,26878
+52,764,District Go Vap,Ward 12,26881
+53,764,District Go Vap,Ward 14,26882
+54,764,District Go Vap,Ward 10,26884
+55,764,District Go Vap,Ward 5,26887
+56,764,District Go Vap,Ward 7,26890
+57,764,District Go Vap,Ward 4,26893
+58,764,District Go Vap,Ward 1,26896
+59,764,District Go Vap,Ward 9,26897
+60,764,District Go Vap,Ward 8,26898
+61,764,District Go Vap,Ward 11,26899
+62,764,District Go Vap,Ward 3,26902
+63,765,District Binh Thanh,Ward 13,26905
+64,765,District Binh Thanh,Ward 11,26908
+65,765,District Binh Thanh,Ward 27,26911
+66,765,District Binh Thanh,Ward 26,26914
+67,765,District Binh Thanh,Ward 12,26917
+68,765,District Binh Thanh,Ward 25,26920
+69,765,District Binh Thanh,Ward 5,26923
+70,765,District Binh Thanh,Ward 7,26926
+71,765,District Binh Thanh,Ward 24,26929
+72,765,District Binh Thanh,Ward 6,26932
+73,765,District Binh Thanh,Ward 14,26935
+74,765,District Binh Thanh,Ward 15,26938
+75,765,District Binh Thanh,Ward 2,26941
+76,765,District Binh Thanh,Ward 1,26944
+77,765,District Binh Thanh,Ward 3,26947
+78,765,District Binh Thanh,Ward 17,26950
+79,765,District Binh Thanh,Ward 21,26953
+80,765,District Binh Thanh,Ward 22,26956
+81,765,District Binh Thanh,Ward 19,26959
+82,765,District Binh Thanh,Ward 28,26962
+83,766,District Tan Binh,Ward 2,26965
+84,766,District Tan Binh,Ward 4,26968
+85,766,District Tan Binh,Ward 12,26971
+86,766,District Tan Binh,Ward 13,26974
+87,766,District Tan Binh,Ward 1,26977
+88,766,District Tan Binh,Ward 3,26980
+89,766,District Tan Binh,Ward 11,26983
+90,766,District Tan Binh,Ward 7,26986
+91,766,District Tan Binh,Ward 5,26989
+92,766,District Tan Binh,Ward 10,26992
+93,766,District Tan Binh,Ward 6,26995
+94,766,District Tan Binh,Ward 8,26998
+95,766,District Tan Binh,Ward 9,27001
+96,766,District Tan Binh,Ward 14,27004
+97,766,District Tan Binh,Ward 15,27007
+98,767,District Tan Phu,Tan Son Nhi Ward,27010
+99,767,District Tan Phu,Tay Thanh Ward,27013
+100,767,District Tan Phu,Son Ky Ward,27016
+101,767,District Tan Phu,Tan Quy Ward,27019
+102,767,District Tan Phu,Tan Thanh Ward,27022
+103,767,District Tan Phu,Phu Tho Hoa Ward,27025
+104,767,District Tan Phu,Phu Thanh Ward,27028
+105,767,District Tan Phu,Phu Trung Ward,27031
+106,767,District Tan Phu,Hoa Thanh Ward,27034
+107,767,District Tan Phu,Hiep Tan Ward,27037
+108,767,District Tan Phu,Tan Thoi Hoa Ward,27040
+109,768,District Phu Nhuan,Ward 4,27043
+110,768,District Phu Nhuan,Ward 5,27046
+111,768,District Phu Nhuan,Ward 9,27049
+112,768,District Phu Nhuan,Ward 7,27052
+113,768,District Phu Nhuan,Ward 3,27055
+114,768,District Phu Nhuan,Ward 1,27058
+115,768,District Phu Nhuan,Ward 2,27061
+116,768,District Phu Nhuan,Ward 8,27064
+117,768,District Phu Nhuan,Ward 15,27067
+118,768,District Phu Nhuan,Ward 10,27070
+119,768,District Phu Nhuan,Ward 11,27073
+120,768,District Phu Nhuan,Ward 17,27076
+121,768,District Phu Nhuan,Ward 14,27079
+122,768,District Phu Nhuan,Ward 12,27082
+123,768,District Phu Nhuan,Ward 13,27085
+124,769,District 2,Thao Dien Ward,27088
+125,769,District 2,An Phu Ward,27091
+126,769,District 2,Binh An Ward,27094
+127,769,District 2,Binh Trung Dong Ward,27097
+128,769,District 2,Binh Trung Tay Ward,27100
+129,769,District 2,Binh Khanh Ward,27103
+130,769,District 2,An Khanh Ward ,27106
+131,769,District 2,Cat Lai Ward,27109
+132,769,District 2,Thanh My Loi Ward,27112
+133,769,District 2,An Loi Dong Ward,27115
+134,769,District 2,Thu Thiem Ward,27118
+135,770,District 3,Ward 8,27121
+136,770,District 3,Ward 7,27124
+137,770,District 3,Ward 14,27127
+138,770,District 3,Ward 12,27130
+139,770,District 3,Ward 11,27133
+140,770,District 3,Ward 13,27136
+141,770,District 3,Ward 6,27139
+142,770,District 3,Ward 9,27142
+143,770,District 3,Ward 10,27145
+144,770,District 3,Ward 4,27148
+145,770,District 3,Ward 5,27151
+146,770,District 3,Ward 3,27154
+147,770,District 3,Ward 2,27157
+148,770,District 3,Ward 1,27160
+149,771,District 10,Ward 15,27163
+150,771,District 10,Ward 13,27166
+151,771,District 10,Ward 14,27169
+152,771,District 10,Ward 12,27172
+153,771,District 10,Ward 11,27175
+154,771,District 10,Ward 10,27178
+155,771,District 10,Ward 9,27181
+156,771,District 10,Ward 1,27184
+157,771,District 10,Ward 8,27187
+158,771,District 10,Ward 2,27190
+159,771,District 10,Ward 4,27193
+160,771,District 10,Ward 7,27196
+161,771,District 10,Ward 5,27199
+162,771,District 10,Ward 6,27202
+163,771,District 10,Ward 3,27205
+164,772,District 11,Ward 15,27208
+165,772,District 11,Ward 5,27211
+166,772,District 11,Ward 14,27214
+167,772,District 11,Ward 11,27217
+168,772,District 11,Ward 3,27220
+169,772,District 11,Ward 10,27223
+170,772,District 11,Ward 13,27226
+171,772,District 11,Ward 8,27229
+172,772,District 11,Ward 9,27232
+173,772,District 11,Ward 12,27235
+174,772,District 11,Ward 7,27238
+175,772,District 11,Ward 6,27241
+176,772,District 11,Ward 4,27244
+177,772,District 11,Ward 1,27247
+178,772,District 11,Ward 2,27250
+179,772,District 11,Ward 16,27253
+180,773,District 4,Ward 12,27256
+181,773,District 4,Ward 13,27259
+182,773,District 4,Ward 9,27262
+183,773,District 4,Ward 6,27265
+184,773,District 4,Ward 8,27268
+185,773,District 4,Ward 10,27271
+186,773,District 4,Ward 5,27274
+187,773,District 4,Ward 18,27277
+188,773,District 4,Ward 14,27280
+189,773,District 4,Ward 4,27283
+190,773,District 4,Ward 3,27286
+191,773,District 4,Ward 16,27289
+192,773,District 4,Ward 2,27292
+193,773,District 4,Ward 15,27295
+194,773,District 4,Ward 1,27298
+195,774,District 5,Ward 4,27301
+196,774,District 5,Ward 9,27304
+197,774,District 5,Ward 3,27307
+198,774,District 5,Ward 12,27310
+199,774,District 5,Ward 2,27313
+200,774,District 5,Ward 8,27316
+201,774,District 5,Ward 15,27319
+202,774,District 5,Ward 7,27322
+203,774,District 5,Ward 1,27325
+204,774,District 5,Ward 11,27328
+205,774,District 5,Ward 14,27331
+206,774,District 5,Ward 5,27334
+207,774,District 5,Ward 6,27337
+208,774,District 5,Ward 10,27340
+209,774,District 5,Ward 13,27343
+210,775,District 6,Ward 14,27346
+211,775,District 6,Ward 13,27349
+212,775,District 6,Ward 9,27352
+213,775,District 6,Ward 6,27355
+214,775,District 6,Ward 12,27358
+215,775,District 6,Ward 5,27361
+216,775,District 6,Ward 11,27364
+217,775,District 6,Ward 2,27367
+218,775,District 6,Ward 1,27370
+219,775,District 6,Ward 4,27373
+220,775,District 6,Ward 8,27376
+221,775,District 6,Ward 3,27379
+222,775,District 6,Ward 7,27382
+223,775,District 6,Ward 10,27385
+224,776,District 8,Ward 8,27388
+225,776,District 8,Ward 2,27391
+226,776,District 8,Ward 1,27394
+227,776,District 8,Ward 3,27397
+228,776,District 8,Ward 11,27400
+229,776,District 8,Ward 9,27403
+230,776,District 8,Ward 10,27406
+231,776,District 8,Ward 4,27409
+232,776,District 8,Ward 13,27412
+233,776,District 8,Ward 12,27415
+234,776,District 8,Ward 5,27418
+235,776,District 8,Ward 14,27421
+236,776,District 8,Ward 6,27424
+237,776,District 8,Ward 15,27427
+238,776,District 8,Ward 16,27430
+239,776,District 8,Ward 7,27433
+240,777,District Binh Tan,Binh Hung Hoa Ward,27436
+241,777,District Binh Tan,Binh Hung Hoa A Ward,27439
+242,777,District Binh Tan,Binh Hung Hoa B Ward,27442
+243,777,District Binh Tan,Binh Tri Dong Ward,27445
+244,777,District Binh Tan,Binh Tri Dong A Ward,27448
+245,777,District Binh Tan,Binh Tri Dong B Ward,27451
+246,777,District Binh Tan,Tan Tao Ward,27454
+247,777,District Binh Tan,Tan Tao A Ward,27457
+248,777,District Binh Tan,An Lac Ward,27460
+249,777,District Binh Tan,An Lac A Ward,27463
+250,778,District 7,Tan Thuan Dong Ward,27466
+251,778,District 7,Tan Thuan Tay Ward,27469
+252,778,District 7,Tan Kieng Ward,27472
+253,778,District 7,Tan Hung Ward,27475
+254,778,District 7,Binh Thuan Ward,27478
+255,778,District 7,Tan Quy Ward,27481
+256,778,District 7,Phu Thuan Ward,27484
+257,778,District 7,Tan Phu Ward,27487
+258,778,District 7,Tan Phong Ward,27490
+259,778,District 7,Phu My Ward,27493
+260,783,Town Cu Chi,Cu Chi Village,27496
+261,783,Town Cu Chi,Phu My Hung Commune,27499
+262,783,Town Cu Chi,An Phu Commune,27502
+263,783,Town Cu Chi,Trung Lap Thuong Commune,27505
+264,783,Town Cu Chi,An Nhon Tay Commune,27508
+265,783,Town Cu Chi,Nhuan Duc Commune,27511
+266,783,Town Cu Chi,Pham Van Coi Commune,27514
+267,783,Town Cu Chi,Phu Hoa Dong Commune,27517
+268,783,Town Cu Chi,Trung Lap Ha Commune,27520
+269,783,Town Cu Chi,Trung An Commune,27523
+270,783,Town Cu Chi,Phuoc Thanh Commune,27526
+271,783,Town Cu Chi,Phuoc Hiep Commune,27529
+272,783,Town Cu Chi,Tan An Hoi Commune,27532
+273,783,Town Cu Chi,Phuoc Vinh An Commune,27535
+274,783,Town Cu Chi,Thai My Commune,27538
+275,783,Town Cu Chi,Tan Thanh Tay Commune,27541
+276,783,Town Cu Chi,Hoa Phu Commune,27544
+277,783,Town Cu Chi,Tan Thanh Dong Commune,27547
+278,783,Town Cu Chi,Binh My Commune,27550
+279,783,Town Cu Chi,Tan Phu Trung Commune,27553
+280,783,Town Cu Chi,Tan Thong Hoi Commune,27556
+281,784,Town Hoc Mon,Hoc Mon Village,27559
+282,784,Town Hoc Mon,Tan Hiep Commune,27562
+283,784,Town Hoc Mon,Nhi Binh Commune,27565
+284,784,Town Hoc Mon,Dong Thanh Commune,27568
+285,784,Town Hoc Mon,Tan Thoi Nhi Commune,27571
+286,784,Town Hoc Mon,Thoi Tam Thon Commune,27574
+287,784,Town Hoc Mon,Xuan Thoi Son Commune,27577
+288,784,Town Hoc Mon,Tan Xuan Commune,27580
+289,784,Town Hoc Mon,Xuan Thoi Dong Commune,27583
+290,784,Town Hoc Mon,Trung Chanh Commune,27586
+291,784,Town Hoc Mon,Xuan Thoi Thuong Commune,27589
+292,784,Town Hoc Mon,Ba Diem Commune,27592
+293,785,Town Binh Chanh,Tan Tuc Village,27595
+294,785,Town Binh Chanh,Pham Van Hai Commune,27598
+295,785,Town Binh Chanh,Vinh Loc A Commune,27601
+296,785,Town Binh Chanh,Vinh Loc B Commune,27604
+297,785,Town Binh Chanh,Binh Loi Commune,27607
+298,785,Town Binh Chanh,Le Minh Xuan Commune,27610
+299,785,Town Binh Chanh,Tan Nhut Commune,27613
+300,785,Town Binh Chanh,Tan Kien Commune,27616
+301,785,Town Binh Chanh,Binh Hung Commune,27619
+302,785,Town Binh Chanh,Phong Phu Commune,27622
+303,785,Town Binh Chanh,An Phu Tay Commune,27625
+304,785,Town Binh Chanh,Hung Long Commune,27628
+305,785,Town Binh Chanh,Da Phuoc Commune,27631
+306,785,Town Binh Chanh,Tan Quy Tay Commune,27634
+307,785,Town Binh Chanh,Binh Chanh Commune,27637
+308,785,Town Binh Chanh,Quy Duc Commune,27640
+309,786,Town Nha Be,Nha Be Village,27643
+310,786,Town Nha Be,Phuoc Kien Commune,27646
+311,786,Town Nha Be,Phuoc Loc Commune,27649
+312,786,Town Nha Be,Nhon Duc Commune,27652
+313,786,Town Nha Be,Phu Xuan Commune,27655
+314,786,Town Nha Be,Long Thoi Commune,27658
+315,786,Town Nha Be,Hiep Phuoc Commune,27661
+316,787,Town Can Gio,Can Thanh Village,27664
+317,787,Town Can Gio,Binh Khanh Commune,27667
+318,787,Town Can Gio,Tam Thon Hiep Commune,27670
+319,787,Town Can Gio,An Thoi Dong Commune,27673
+320,787,Town Can Gio,Thanh An Commune,27676
+321,787,Town Can Gio,Long Hoa Commune,27679
+322,787,Town Can Gio,Ly Nhon Commune,27682
